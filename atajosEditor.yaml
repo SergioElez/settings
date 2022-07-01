@@ -1,0 +1,34 @@
+ATAJOS PARA TODOS LOS IDES O EDITORES
+
+F1: Buscar referencias del proyecto
+F2: Renombrar variable o metodo
+F3: Ir al metodo
+Ctrl+D: Duplicar linea
+Ctrl+Del: Borrar palabra a la derecha
+Ctrl+C: Copiar linea
+Ctrl+X: Cortar linea
+Ctrl+Shift+C: Comentar linea
+Ctrl+Space: Seleccionar palabra
+Ctrl+Retroceso: Borrar palabra a la izquierda
+Ctrl+P: Buscar archivo del proyecto
+Ctrl+P (workspace): Buscar texto en un archivo del proyecto
+Ctrl+F: Buscar en archivo
+Ctrl+H: Reemplazar en archivo
+Ctrl+Tab: Ir al ultimo archivo editado
+Ctrl+G+S: Git Switch
+Ctrl+G+C: Git Commit
+Ctrl+G+P: Git Pull
+Ctrl+G+M: Git Merge
+Ctrl+Shift+G+P: Git Push
+Ctrl+G+G: Generar getter y setters
+Ctrl+E+M: Extraer metodo
+Ctrl+E+C: Extraer constante
+Ctrl+M+I: Maven install
+Ctrl+M+C: Maven clean
+Ctrl+M+U: Maven Update project
+Ctrl+M+B: Maven build (Ant build)
+Alt+Flechas izq y der: Navegar palabras
+Alt+Flechas arriba, abajo: Subir linea o bajar linea
+Alt+Click: Seleccion en bloque	
+
+
