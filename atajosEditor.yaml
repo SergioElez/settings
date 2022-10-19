@@ -3,6 +3,8 @@ ATAJOS PARA TODOS LOS IDES O EDITORES
 F1: Buscar referencias del proyecto
 F2: Renombrar variable o metodo
 F3: Ir al metodo
+F4: Fold all
+Ctrl+F4: Unfold all
 Ctrl+D: Duplicar linea
 Ctrl+Del: Borrar palabra a la derecha
 Ctrl+C: Copiar linea
@@ -10,6 +12,7 @@ Ctrl+X: Cortar linea
 Ctrl+Shift+C: Comentar linea
 Ctrl+Space: Seleccionar palabra
 Ctrl+Retroceso: Borrar palabra a la izquierda
+Ctrl+W: Wrap lines
 Ctrl+P: Buscar archivo del proyecto
 Ctrl+P (workspace): Buscar texto en un archivo del proyecto
 Ctrl+F: Buscar en archivo
