@@ -35,8 +35,7 @@ Ctrl+M+I: Maven install
 Ctrl+M+C: Maven clean
 Ctrl+M+U: Maven Update project
 Ctrl+M+B: Maven build (Ant build)
-Alt+Flechas izq y der: Navegar palabras
+Ctrl+Flechas izq y der: Navegar palabras
+Ctrl+Shift+Flechas izq y der: Navegar subpalabras
 Alt+Flechas arriba, abajo: Subir linea o bajar linea
-Alt+Click: Seleccion en bloque	
-
-
+Alt+Click: Seleccion en bloque
