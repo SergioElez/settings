@@ -4,7 +4,10 @@ F1: Buscar referencias del proyecto
 F2: Renombrar variable o metodo
 F3: Ir al metodo
 F4: Fold all
+F5: Ejecutar test
+F6: Ejecutar test en debug
 Ctrl+F4: Unfold all
+Ctrl+B: Poner breakpoint
 Ctrl+D: Duplicar linea
 Ctrl+Del: Borrar palabra a la derecha
 Ctrl+C: Copiar linea
