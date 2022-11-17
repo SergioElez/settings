@@ -9,6 +9,7 @@ F6: Step over debug
 F7: Ejecutar test
 F8: Ejecutar test en debug
 Ctrl+F4: Unfold all
+Ctrl+Enter: Unfold linea
 Ctrl+B: Poner breakpoint
 Ctrl+D: Duplicar linea
 Ctrl+Del: Borrar palabra a la derecha
@@ -39,3 +40,4 @@ Ctrl+Flechas izq y der: Navegar palabras
 Ctrl+Shift+Flechas izq y der: Navegar subpalabras
 Alt+Flechas arriba, abajo: Subir linea o bajar linea
 Alt+Click: Seleccion en bloque
+Ctrl+Shift+;: Abrir preferencias
