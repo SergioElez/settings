@@ -41,3 +41,5 @@ Ctrl+Shift+Flechas izq y der: Navegar subpalabras
 Alt+Flechas arriba, abajo: Subir linea o bajar linea
 Alt+Click: Seleccion en bloque
 Ctrl+Shift+;: Abrir preferencias
+Ctrl+`: Abrir perspectiva Debug
+Ctrl+Shift+`: Abrir perspectiva Normal
